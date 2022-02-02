@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["embedded_hal","esp_idf_hal","esp_idf_sys","nb"];

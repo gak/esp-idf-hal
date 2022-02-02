@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["adc",""],["can","CAN bus peripheral control."],["delay",""],["gpio","GPIO and pin configuration"],["i2c",""],["mutex",""],["peripherals",""],["prelude","The prelude."],["riscv_ulp_hal",""],["serial","UART peripheral control"],["spi","SPI peripheral control"],["units","Units of measurement implementation for times and frequencies."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Direction","Count direction"]],"mod":[["blocking","Blocking quadrature encoder interface traits"]]});
